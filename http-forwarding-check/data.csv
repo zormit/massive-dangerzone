@@ -1,0 +1,3 @@
+url,forwarding,containing
+http://facebook.com,https://www.facebook.com/,Facebook
+http://www.example.com/,http://www.example.org/,Failing Example
